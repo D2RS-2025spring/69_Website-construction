@@ -110,6 +110,9 @@ body{
 	padding:4px;
 	background-color: #121212;
 	margin-right: 20px;
+	width: 160px; 
+ 	height: 160px; 
+	object-fit: cover;
 }
 .content ul li p{
 	font-size: 12px;
