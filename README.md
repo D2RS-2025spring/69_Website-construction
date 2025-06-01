@@ -1,6 +1,6 @@
 使用vercel部署了网站：https://new-69-website-construction.vercel.app/
 
-
+tips：更改后的目录结构可以使用vercle得到结果网站，与我组所提交的代码完全一致。
 
 本项目是基于html+css编写的前端静态网页，项目主题是音乐网站，通过多个页面呈现不同的音乐榜单。
 不足在于开发能力有限，后续可尝试调用某音乐平台api实现实时动态更新。
