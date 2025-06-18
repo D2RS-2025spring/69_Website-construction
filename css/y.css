@@ -2,7 +2,7 @@
 .clearfix:before,.clearfix:after{display: block; content: " "}
 .clearfix:after{clear:both;}
 body{
-	background: url(../../img/templatemo_top_bg.jpg) repeat-x;
+	background: url(../img/templatemo_top_bg.jpg) repeat-x;
 	background-color: #272526;
 }
 .header{
@@ -17,7 +17,7 @@ body{
 	text-align: center;
 }
 .main{
-	background: url(../../img/templatemo_wrapper_bg.png) repeat-y;
+	background: url(../img/templatemo_wrapper_bg.png) repeat-y;
 	padding:15px;
 	width: 990px;
 	margin:0 auto;
@@ -39,7 +39,7 @@ body{
 }
 .menu{
 	padding-bottom: 20px;
-	background: url(../../img/templatemo_horizontal_divider.jpg);
+	background: url(../img/templatemo_horizontal_divider.jpg);
 	background-repeat: repeat-x;
 	background-position: 0 bottom;
 	background-size: 180px 2px;
@@ -86,7 +86,7 @@ body{
 	height: 30px;
 	line-height: 30px;
 	font-size: 10px;
-	background: url(../../img/templatemo_button_01.png) no-repeat;
+	background: url(../img/templatemo_button_01.png) no-repeat;
 	/*background-size: 117px 27px;*/
 	border: none;
 }
@@ -103,7 +103,7 @@ body{
 	padding:0 19px 43px 19px;
 	position: relative;
 	/*background-color: #1b191a;*/
-	background: url(../../img/b2.jpg) no-repeat;
+	background: url(../img/b2.jpg) no-repeat;
 	background-size: 100%;
 	color: #e6e6e6;
 	padding: 30px;
@@ -164,7 +164,7 @@ form button:hover{
 .content table{
 	width: 620px;
 	margin: 10px auto;
-	/*background: url(../../img/b2.jpg);
+	/*background: url(../img/b2.jpg);
 	background-size: 110%;
 	background-position: -20px -20px;*/
 	font-size: 13px;
@@ -175,7 +175,7 @@ form button:hover{
 .footer{
 	width: 980px;
 	margin:0 auto;
-	background:url(../../img/templatemo_footer.jpg) no-repeat -4px 0;
+	background:url(../img/templatemo_footer.jpg) no-repeat -4px 0;
 }
 .footer p{
 	line-height: 50px;
